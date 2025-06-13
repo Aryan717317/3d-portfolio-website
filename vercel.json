@@ -1,9 +1,10 @@
 {
-  "name": "portfolio-3d-interactive",
   "rewrites": [
     {
       "source": "/(.*)",
       "destination": "/index.html"
     }
-  ]
+  ],
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist"
 }
