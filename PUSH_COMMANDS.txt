@@ -1,0 +1,21 @@
+# GitHub Push Commands
+
+After creating your GitHub repository, run these commands in order:
+
+## Replace YOURUSERNAME with your actual GitHub username
+
+# 1. Add the GitHub repository as remote origin
+git remote add origin https://github.com/YOURUSERNAME/3d-portfolio-website.git
+
+# 2. Rename branch to main (GitHub's default)
+git branch -M main
+
+# 3. Push your code to GitHub
+git push -u origin main
+
+## If you encounter authentication issues, you may need to:
+# - Use a Personal Access Token instead of password
+# - Or configure SSH keys
+
+## Your repository will then be live at:
+# https://github.com/YOURUSERNAME/3d-portfolio-website
