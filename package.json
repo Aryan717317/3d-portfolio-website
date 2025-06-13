@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "homepage": "https://aryan717317.github.io/3d-portfolio-website",
   "description": "A stunning 3D interactive portfolio website built with React and Three.js",
   "author": "Alex Developer <alex@example.com>",
   "keywords": [
